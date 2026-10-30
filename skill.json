@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-coronary-cac-calcium-plaque-velocity-skill",
+  "version": "1.0.0",
+  "title": "Coronary Agatston CAC Plaque Progression Velocity Skill",
+  "category": "Personal Agent (Bio / Preventive Cardiology)",
+  "description": "Calculates annualized Agatston score absolute/relative progression rate, MESA arterial age, and ten-year ASCVD event hazard stratification.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "calculate_cac_plaque_progression_velocity"
+  ],
+  "dependencies": []
+}
